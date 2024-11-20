@@ -93,7 +93,7 @@ body {
     font-family: var(--font-secondary);
     font-size: var(--font-scale);
     margin: auto;
-    padding: 20px;
+    padding: 30px;
     max-width: var(--width);
     text-align: left;
     background-color: var(--background-color);

@@ -65,7 +65,6 @@ header::before {
   border: 5px solid var(--border-color);
   box-sizing: border-box;
   margin-bottom: 0.5em;
-  border
 }
 
 header > a.title {
